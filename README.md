@@ -1,6 +1,6 @@
 <p align="center"><img src="misc/log.jpeg" alt="lab" width="1200"></p>
   
-# <br>实验室服务器使用手册
+# <br><center> 实验室服务器使用手册 </center><br>
 
 ## 一、 远程登录
 
