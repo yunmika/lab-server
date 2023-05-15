@@ -4,7 +4,7 @@
 
 ## 一、 远程登录
 
- 服务器ip地址：
+ 服务器ip地址：<br>
  推荐使用 <font color=red >MobarXterm</font> 进行远程访问服务器。
 
 ## 二、用户管理
