@@ -1,10 +1,10 @@
-<p align="center"><img src="misc/lab.jpeg" alt="lab" width="1200"></p>
+<p align="center"><img src="misc/log.jpeg" alt="lab" width="1200"></p>
   
 # <br>实验室服务器使用手册
 
 ## 一、 远程登录
  服务器ip地址：
- 推荐使用==MobarXterm==进行远程访问服务器。
+ 推荐使用 <font color=red >MobarXterm</font> 进行远程访问服务器。
 
 ## 二、用户管理
 
@@ -13,13 +13,14 @@
 
 ## 三、软件安装与配置
 
-1. 管理员提前自动安装常用软件（seqtk、seqkit、blast、samtools等）。
-2. 管理员手动安装的软件在 ==/pub/software== 目录下。
-3. 对应管理未下载的软件普通用户可以在自己的家目录下载miniconda进行软件下载或者创建新的环境变量使用anaconda下载。
+1. 使用软件前查看管理员是有已经安装。
+2. 管理员提前自动安装常用软件（seqtk、seqkit、blast、samtools等）。
+3. 管理员手动安装的软件在 <font color=red >/pub/software</font> 目录下。
+4. 对应管理未下载的软件普通用户可以在自己的家目录下载miniconda进行软件下载或者创建新的环境变量使用anaconda下载。
    
 ## 四、服务器使用注意事项
 
-1. 高峰期普通用户线程数使用最好不超过==50==，内存不超过==500G==
+1. 高峰期普通用户线程数使用最好不超过 <font color=red >50</font>，内存不超过<font color=red >500G</font>
 2. 服务器避免大量数据传输，对于大量数据传输可以使用移动硬盘在实验室进行传输，如果不会操作可以找管理员。
  
 ## 五、磁盘管理
