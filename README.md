@@ -3,6 +3,7 @@
 # <br>实验室服务器使用手册
 
 ## 一、 远程登录
+
  服务器ip地址：
  推荐使用 <font color=red >MobarXterm</font> 进行远程访问服务器。
 
